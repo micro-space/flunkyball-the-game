@@ -2,7 +2,7 @@
 
 *Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
 
-![Thumbnail of Cayman](https://upload.wikimedia.org/wikipedia/commons/e/ee/Area4-2010-flunkyball.JPG)
+![Picture of Flunkyball on a festival (wikimedia)](https://upload.wikimedia.org/wikipedia/commons/e/ee/Area4-2010-flunkyball.JPG)
 
 ## Usage
 
